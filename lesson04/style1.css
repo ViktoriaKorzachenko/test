@@ -1,0 +1,22 @@
+h1 {
+    font-size: 150px;
+    color: rgb(86, 254, 25);
+}
+
+p {
+    font-size: 30px;
+    font-family: Tahoma, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    line-height: 15px;
+    color: red;
+}
+
+.about {
+    font-size: 40px;
+    color: #356936;
+}
+
+#rad {
+    font-size: 55px;
+}
